@@ -1,0 +1,20 @@
+BOOTCAMP DIO ORANGE TECH+ — RESUMO
+
+Comecei aprendendo pensamento computacional, que é uma forma 
+lógica e organizada de resolver problemas através de 4 pilares: 
+decomposição, reconhecimento de padrões, abstração e algoritmo.
+
+Depois aprendi lógica de programação, que é a base de tudo — 
+sequência, condicionais, repetições, variáveis e funções. 
+Aprendi também sobre tipos de dados, vetores e matrizes.
+
+Na parte de desenvolvimento entendi a diferença entre hardware 
+e software, as áreas do mercado como Front-end, Back-end e 
+Full Stack, a diferença entre UX e UI e os paradigmas de 
+programação como OOP que já pratico com Java.
+
+No momento eu estou aprendendo Git e GitHub — o Git controla as versões 
+do código localmente e o GitHub armazena tudo na nuvem servindo 
+como portfólio. Aprendi os comandos principais como add, commit, 
+push, pull e clone, o ciclo de vida dos arquivos, autenticação 
+com SSH e Token e como resolver conflitos em equipe.

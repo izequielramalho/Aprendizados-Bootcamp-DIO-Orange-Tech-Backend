@@ -1,20 +1,82 @@
-BOOTCAMP DIO ORANGE TECH+ — RESUMO
+# Bootcamp DIO Orange Tech+ Backend - Jornada de Aprendizado
 
-Comecei aprendendo pensamento computacional, que é uma forma 
-lógica e organizada de resolver problemas através de 4 pilares: 
-decomposição, reconhecimento de padrões, abstração e algoritmo.
+Repositório criado para documentar minha jornada no bootcamp 
+Orange Tech+ Backend da DIO, registrando cada etapa do aprendizado.
 
-Depois aprendi lógica de programação, que é a base de tudo — 
-sequência, condicionais, repetições, variáveis e funções. 
-Aprendi também sobre tipos de dados, vetores e matrizes.
+---
 
-Na parte de desenvolvimento entendi a diferença entre hardware 
-e software, as áreas do mercado como Front-end, Back-end e 
-Full Stack, a diferença entre UX e UI e os paradigmas de 
-programação como OOP que já pratico com Java.
+## Pensamento Computacional
 
-No momento eu estou aprendendo Git e GitHub — o Git controla as versões 
-do código localmente e o GitHub armazena tudo na nuvem servindo 
-como portfólio. Aprendi os comandos principais como add, commit, 
-push, pull e clone, o ciclo de vida dos arquivos, autenticação 
-com SSH e Token e como resolver conflitos em equipe.
+Minha jornada começou entendendo como pensar de forma lógica 
+e estruturada para resolver problemas. Aprendi os 4 pilares 
+que formam a base do pensamento computacional: decomposição 
+para dividir problemas complexos em partes menores, 
+reconhecimento de padrões para identificar similaridades, 
+abstração para focar no que realmente importa e algoritmo 
+para criar um passo a passo eficiente na resolução de problemas.
+
+---
+
+## Lógica de Programação
+
+Com a base do pensamento computacional consolidada, entrei 
+no mundo da lógica de programação — a fundação de qualquer 
+linguagem. Aprendi sobre sequência, condicionais, repetições, 
+variáveis e funções, além de tipos de dados, vetores e matrizes. 
+Entendi que sem uma lógica bem estruturada, nenhum código 
+funciona corretamente.
+
+---
+
+## Introdução ao Desenvolvimento de Software
+
+Nessa etapa ampliei minha visão sobre o mercado de tecnologia. 
+Entendi a diferença entre hardware e software, as áreas de 
+atuação como Front-end, Back-end e Full Stack, a importância 
+da experiência do usuário com UX e UI, e os paradigmas de 
+programação — com destaque para a Orientação a Objetos que 
+já pratico com Java.
+
+---
+
+## Git e GitHub
+
+Aprendi a versionar meu código com Git e publicar no GitHub. 
+Dominei os comandos principais como add, commit, push, pull 
+e clone, entendi o ciclo de vida dos arquivos, configurei 
+autenticação com SSH e Token e aprendi como resolver conflitos 
+em equipe. O GitHub se tornou meu portfólio online onde 
+qualquer recrutador pode ver minha evolução.
+
+---
+
+## Sintaxe Java
+
+Mergulhei na sintaxe do Java aprendendo a anatomia completa 
+de uma classe, tipos e variáveis, operadores, métodos com 
+e sem retorno, escopo de variáveis, palavras reservadas, 
+documentação com JavaDoc, leitura de dados com Scanner e 
+passagem de argumentos via terminal. Foi onde o Java começou 
+a fazer sentido de verdade.
+
+---
+
+## Lógica Condicional e Controle de Fluxos
+
+Aprendi a dar inteligência ao código — fazendo ele tomar 
+decisões. Estudei operadores relacionais e lógicos, controle 
+de fluxo com if/else e switch, estrutura de blocos e boas 
+práticas como evitar o efeito flecha e usar variáveis 
+booleanas para simplificar condições complexas.
+
+---
+
+## Estruturas de Repetição e Arrays
+
+Aprendi a fazer o código repetir ações de forma eficiente 
+com for, while, do while e for each, além de armazenar 
+múltiplos valores com arrays. Pratiquei com exercícios 
+reais como cálculo de média, validação de notas e busca 
+do maior número em uma lista.
+
+---

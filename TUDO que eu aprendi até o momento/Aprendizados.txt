@@ -1,11 +1,7 @@
-# Bootcamp DIO Orange Tech+ Backend - Jornada de Aprendizado
+BOOTCAMP DIO ORANGE TECH+ BACKEND - JORNADA DE APRENDIZADO
 
-Repositório criado para documentar minha jornada no bootcamp 
-Orange Tech+ Backend da DIO, registrando cada etapa do aprendizado.
 
----
-
-## Pensamento Computacional
+PENSAMENTO COMPUTACIONAL
 
 Minha jornada começou entendendo como pensar de forma lógica 
 e estruturada para resolver problemas. Aprendi os 4 pilares 
@@ -14,10 +10,7 @@ para dividir problemas complexos em partes menores,
 reconhecimento de padrões para identificar similaridades, 
 abstração para focar no que realmente importa e algoritmo 
 para criar um passo a passo eficiente na resolução de problemas.
-
----
-
-## Lógica de Programação
+LÓGICA DE PROGRAMAÇÃO
 
 Com a base do pensamento computacional consolidada, entrei 
 no mundo da lógica de programação — a fundação de qualquer 
@@ -26,9 +19,7 @@ variáveis e funções, além de tipos de dados, vetores e matrizes.
 Entendi que sem uma lógica bem estruturada, nenhum código 
 funciona corretamente.
 
----
-
-## Introdução ao Desenvolvimento de Software
+INTRODUÇÃO AO DESENVOLVIMENTO DE SOFTWARE
 
 Nessa etapa ampliei minha visão sobre o mercado de tecnologia. 
 Entendi a diferença entre hardware e software, as áreas de 
@@ -37,9 +28,7 @@ da experiência do usuário com UX e UI, e os paradigmas de
 programação — com destaque para a Orientação a Objetos que 
 já pratico com Java.
 
----
-
-## Git e GitHub
+GIT E GITHUB
 
 Aprendi a versionar meu código com Git e publicar no GitHub. 
 Dominei os comandos principais como add, commit, push, pull 
@@ -48,9 +37,7 @@ autenticação com SSH e Token e aprendi como resolver conflitos
 em equipe. O GitHub se tornou meu portfólio online onde 
 qualquer recrutador pode ver minha evolução.
 
----
-
-## Sintaxe Java
+SINTAXE JAVA
 
 Mergulhei na sintaxe do Java aprendendo a anatomia completa 
 de uma classe, tipos e variáveis, operadores, métodos com 
@@ -59,9 +46,7 @@ documentação com JavaDoc, leitura de dados com Scanner e
 passagem de argumentos via terminal. Foi onde o Java começou 
 a fazer sentido de verdade.
 
----
-
-## Lógica Condicional e Controle de Fluxos
+LÓGICA CONDICIONAL E CONTROLE DE FLUXOS
 
 Aprendi a dar inteligência ao código — fazendo ele tomar 
 decisões. Estudei operadores relacionais e lógicos, controle 
@@ -69,14 +54,10 @@ de fluxo com if/else e switch, estrutura de blocos e boas
 práticas como evitar o efeito flecha e usar variáveis 
 booleanas para simplificar condições complexas.
 
----
-
-## Estruturas de Repetição e Arrays
+ESTRUTURAS DE REPETIÇÃO E ARRAYS
 
 Aprendi a fazer o código repetir ações de forma eficiente 
 com for, while, do while e for each, além de armazenar 
 múltiplos valores com arrays. Pratiquei com exercícios 
 reais como cálculo de média, validação de notas e busca 
 do maior número em uma lista.
-
----
